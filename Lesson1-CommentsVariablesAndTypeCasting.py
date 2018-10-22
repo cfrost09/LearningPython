@@ -1,5 +1,6 @@
 # This is a single line comment
-# Comments are used to make notes on the next lines of code but where possible, code should be self-commenting by using proper variable names
+# Comments are used to make notes about the next lines of code
+# Where possible code should be self-commenting by using proper variable names
 # For the sake of these lessons we'll use lots of comments
 
 '''
